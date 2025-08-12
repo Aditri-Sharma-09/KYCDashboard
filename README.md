@@ -52,6 +52,7 @@ Open MySQL Workbench.
 Run the provided SQL script:
 
 CREATE DATABASE kyc_db;
+
 USE kyc_db;
 
 CREATE TABLE kyc_requests (
@@ -101,7 +102,20 @@ REST API integration.
 
 
 📬 Contact
+
 👤 Aditri Sharma
+
 📧 Email: sharmaaditri09@gmail.com
+
 💼 GitHub: Aditri-Sharma-09
+
+
+#SOME SNAPSHOTS
+
+![Homepage Screenshot](snapshots/homepage.png)
+
+![Admin Panel](snapshots/adminpanel.png)
+
+![Admin Panel](snapshots/status.png)
+
 
